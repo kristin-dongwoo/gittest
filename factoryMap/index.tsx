@@ -1,3 +1,3 @@
-export default function aldskfjalkdsf(){
+export function aldskfjalkdsf(){
   return null
 }
