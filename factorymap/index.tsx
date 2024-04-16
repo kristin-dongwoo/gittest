@@ -1,3 +1,3 @@
-export default function alsdkfjaldskfjalkdsjfl(){
+export function alsdkfjaldskfjalkdsjfl(){
   return null
 }
